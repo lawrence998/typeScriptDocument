@@ -1,0 +1,2 @@
+# typeScriptDocument
+typeScript文档
