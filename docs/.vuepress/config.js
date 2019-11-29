@@ -15,7 +15,7 @@ module.exports = {
     nav: [
       {
         text: 'GitHub',
-        link: 'https://github.com/dengwb1991'
+        link: 'https://github.com/lawrence998'
       }
     ],
     // The sidebar
